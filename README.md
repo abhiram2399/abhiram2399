@@ -8,6 +8,9 @@
 [![Applied ML](https://img.shields.io/badge/Applied%20ML-Random%20Forest-4C1D95?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/abhiram2399/SmartUrban-GreenSpace-Predictor)
 [![Projects](https://img.shields.io/badge/Portfolio-GitHub%20Projects-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiram2399?tab=repositories)
 [![GitHub](https://img.shields.io/badge/GitHub-abhiram2399-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiram2399)
+[![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Hyderabad%2C%20India)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiramreddy23)
+[![Email](https://img.shields.io/badge/Email-Contact-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramreddy2399@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=abhiram2399&style=for-the-badge&color=5B21B6&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/abhiram2399?style=for-the-badge&color=4C1D95&label=FOLLOWERS)](https://github.com/abhiram2399?tab=followers)
@@ -19,7 +22,7 @@
 
 ## About
 
-I build and document software projects spanning cloud infrastructure, containerized services, and full-stack applications. My public work includes AWS and Kubernetes deployments, Terraform infrastructure, and a React/TypeScript application.
+I am a Software Engineer who builds and documents projects spanning cloud infrastructure, containerized services, and full-stack applications. My public work includes AWS and Kubernetes deployments, Terraform infrastructure, and a React/TypeScript application.
 
 I also work with geospatial data and applied machine learning: a Google Earth Engine study uses Landsat imagery and Random Forest classification to examine urban green-space availability and accessibility in Athens.
 
@@ -149,7 +152,8 @@ A web application with a React/TypeScript frontend and a separate backend, organ
 
 ## Experience
 
-Professional employer and role history is not listed on the public profile. The public portfolio documents project work across:
+**Software Engineer**  
+Company and date range are not shared here. My public project portfolio documents work across:
 
 - AWS infrastructure and Terraform modules, including EKS, VPC, node groups, and IRSA.
 - Kubernetes deployments for banking and e-commerce service architectures.
@@ -179,20 +183,22 @@ No certification records or credential links are published on the profile. Provi
 
 | Provider | Public certification information |
 |---|---|
-| ![AWS](https://img.shields.io/badge/AWS-312E81?style=flat-square&logo=amazonaws&logoColor=white) | Not listed publicly |
-| ![Oracle](https://img.shields.io/badge/Oracle-4C1D95?style=flat-square&logo=oracle&logoColor=white) | Not listed publicly |
-| ![NPTEL](https://img.shields.io/badge/NPTEL-1E3A8A?style=flat-square) | Not listed publicly |
-| ![Cisco](https://img.shields.io/badge/Cisco-312E81?style=flat-square&logo=cisco&logoColor=white) | Not listed publicly |
+| ![AWS](https://img.shields.io/badge/AWS-312E81?style=flat-square&logo=amazonaws&logoColor=white) | Solutions Architect – Fundamentals of Architecting on AWS |
+| ![Oracle](https://img.shields.io/badge/Oracle-4C1D95?style=flat-square&logo=oracle&logoColor=white) | Agentic AI Certified Foundations |
+| ![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-1E3A8A?style=flat-square&logo=ibm&logoColor=white) | Artificial Intelligence Fundamentals |
+| ![Cisco Networking Academy](https://img.shields.io/badge/Cisco%20Networking%20Academy-312E81?style=flat-square&logo=cisco&logoColor=white) | Python Essentials 1; Introduction to Cybersecurity; CCNAv7: Switching & Routing; CCNAv7: Intro to Networks |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-4C1D95?style=flat-square) | DevOps & Cloud Engineering |
+| ![NPTEL](https://img.shields.io/badge/NPTEL-1E3A8A?style=flat-square) | Not shared |
 
 ---
 
 ## Coding Profiles
 
-Only the GitHub account below is linked to this public profile; other platform handles are not listed.
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-abhiram2399-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiram2399)
+[![LeetCode](https://img.shields.io/badge/LeetCode-abhiram2399-312E81?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhiram2399/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-abhiram2399-4C1D95?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abhiram2399)
 
 | Platform | Profile |
 |---|---|
@@ -271,12 +277,14 @@ open_to:
 
 ## Connect
 
-The public profile currently links to GitHub projects; email, LinkedIn, and a separate portfolio URL are not listed.
+Connect through LinkedIn or email, or browse the public project portfolio on GitHub.
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-abhiram2399-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiram2399)
 [![Projects](https://img.shields.io/badge/Projects-Explore%20repositories-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiram2399?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiramreddy23)
+[![Email](https://img.shields.io/badge/Email-Contact-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramreddy2399@gmail.com)
 
 </div>
 
